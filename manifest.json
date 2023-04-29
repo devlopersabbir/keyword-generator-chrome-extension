@@ -1,0 +1,21 @@
+{
+  "name": "Keyword Maker",
+  "description": "A powerfull keyword maker google chrome extension. Give a paragraph it's make keyword for you.",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Keyword Maker",
+    "default_icon": {
+      "16": "icon.png",
+      "24": "icon.png",
+      "32": "icon.png"
+    }
+  },
+  "icons": {
+    "128": "icon.png",
+    "16": "icon.png",
+    "256": "icon.png",
+    "48": "icon.png"
+  }
+}
