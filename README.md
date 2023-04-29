@@ -12,7 +12,7 @@ Here is the extesnion interface
 - Clone this repositorie with this command
 
 ```console
-git clone https://github.com/devlopersabbir/simple-cors-platform-calculator-app.git
+git clone https://github.com/devlopersabbir/keyword-generator-chrome-extension.git
 ```
 
 # Stop!
