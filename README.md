@@ -36,7 +36,7 @@ cd keyword-generator-chrome-extension && npm i && npm run build
 
 #### Author
 
-This package created by [Sabbir Hossain Shuvo](https://www.showwcase.com/devlopersabbir). And the GitHub profile is [https://github.com/devlopersabbir](https://github.com/devlopersabbir).
+Full name [Sabbir Hossain Shuvo](https://www.showwcase.com/devlopersabbir). And the GitHub profile is [https://github.com/devlopersabbir](https://github.com/devlopersabbir).
 
 #### LICENSE
 
