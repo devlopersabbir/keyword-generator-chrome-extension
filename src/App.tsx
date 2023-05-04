@@ -17,7 +17,7 @@ import axios from "axios";
 import { toast } from "react-hot-toast";
 
 const App = () => {
-  const YOUR_API_KEY = "sk-oxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+  const YOUR_API_KEY = "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";
   const [text, setText] = useState<string>("");
   const [keyword, setKeyword] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
@@ -27,7 +27,7 @@ const App = () => {
     setLoading(true);
     const datas: any = {
       model: "text-davinci-003",
-      prompt: `Generate keyword from this text. Make the first latter of each word uppercase and separate with commas. The text is here: ${text}`,
+      prompt: `Find Great Keywords Using Google Autocomplete. Make the first latter of each word uppercase and separate with commas. The text is here: ${text}`,
       temperature: 0.5,
       max_tokens: 60,
       top_p: 1.0,
