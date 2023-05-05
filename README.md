@@ -34,6 +34,12 @@ cd keyword-generator-chrome-extension && npm i && npm run build
 - When you have finished build this extesnion then you will see a directory called `dist`.
 - So far, are in the last step now. Go to your extension page and upload your `dist` forlder. that's it.
 
+## Youtube video tutorial
+If you  want to see the youtube video tutorial then it's waiting for your. [click me to watch](https://youtu.be/LOcWxUQbYPY)
+
+## [dev.to](https://dev.to) blog post
+Here is the blog post [click me to read](https://dev.to/devlopersabbir/create-a-keyword-generator-chrome-extension-1gfh)
+
 #### Author
 
 Full name [Sabbir Hossain Shuvo](https://www.showwcase.com/devlopersabbir). And the GitHub profile is [https://github.com/devlopersabbir](https://github.com/devlopersabbir).
