@@ -17,7 +17,7 @@ import axios from "axios";
 import { toast } from "react-hot-toast";
 
 const App = () => {
-  const YOUR_API_KEY = "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";
+  const YOUR_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
   const [text, setText] = useState<string>("");
   const [keyword, setKeyword] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
