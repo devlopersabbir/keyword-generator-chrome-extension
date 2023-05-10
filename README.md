@@ -30,10 +30,6 @@ git clone https://github.com/devlopersabbir/keyword-generator-chrome-extension.g
 ```console
 cd keyword-generator-chrome-extension && npm i && npm run build
 ```
-- Alright, now we have to start our development server to do that just run this command.
-```console
-npm run dev
-```
 
 - When you have finished build this extesnion then you will see a directory called `dist`.
 - So far, are in the last step now. Go to your extension page and upload your `dist` forlder. that's it.
